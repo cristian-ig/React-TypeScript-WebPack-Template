@@ -1,5 +1,5 @@
-import './styles.css'
-import IMAGE from '../resource/caffeine.svg'
+import '../styles/styles.css'
+import IMAGE from '../../resource/caffeine.svg'
 export const App = () => {
     return <>
     <h1>React Temaplte</h1>
